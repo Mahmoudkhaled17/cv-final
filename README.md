@@ -18,7 +18,7 @@ Built as part of [The Odin Project](https://www.theodinproject.com/) curriculum.
 - CSS custom properties (no external UI library)
 - Google Fonts: Playfair Display + DM Sans
 
-## Getting Started
+## Getting Started =
 
 ```bash
 npm install
